@@ -1,0 +1,90 @@
+Freq;RDS;Programm;Distanz;dBuV
+91.4;BRF 91.4;Berliner Rundfunk 91.4 (Berlin);1km;112
+95.8;radio1;RBB Radio Eins;1km;112
+97.7;DLF;Deutschlandfunk (DLF);1km;112
+99.7;Antenne;Antenne Brandenburg (Potsdam);1km;112
+94.3;94,3 rs2;r.s.2;1km;106
+89.6;DKULTUR;Deutschlandradio Kultur;1km;105
+90.2;TEDDY;Radio Teddy;1km;104
+100.6;FluxFM;FluxFM 100,6;1km;104
+102.6;Fritz;RBB Fritz;1km;104
+104.6;104.6RTL;104.6 RTL;1km;102
+103.4;ENERGY;Energy Berlin;1km;101
+105.5;SPREE;105'5 Spreeradio;1km;99
+101.3;KLASSIK;Klassik Radio (Berlin);1km;98
+93.6;JAM FM;Jam FM;1km;95
+87.9;STAR FM;STAR FM 87.9;1km;92
+98.8;KISS FM;Kiss FM;1km;92
+106;radio B2;Radio B2;1km;92
+101.9;metropol;Radyo Metropol FM (Berlin);1km;89
+88.8;BERLIN;RBB Berlin 88,8 - Das Stadtradio;12km;87
+92.4;Kultur;RBB Kulturradio;12km;87
+96.3;Funkhaus;Funkhaus Europa;12km;87
+93.1;Info-;RBB infoRADIO;12km;82
+96.7;RFI;Radio France Internationale;2km;82
+98.2;PARADISO;98.2 Radio Paradiso;12km;77
+104.1;NPR WW;National Public Radio;2km;77
+107.5;BB RADIO;BB Radio (Potsdam/Berlin);21km;73
+106.8;Jazz;JazzRadio;12km;71
+88.4;88vier;88vier;2km;70
+97.2;RUSSKIJ;Radio Russkij;2km;70
+94.8;BBCWorld;BBC World Service;21km;68
+106.2;Antenne;Antenne Brandenburg (Potsdam);67km;53
+99.3;radio1;RBB Radio Eins;67km;52
+101.5;Fritz;RBB Fritz;71km;49
+104;MDR;MDR Figaro;88km;49
+107.8;BB RADIO;BB Radio (Oderland);71km;49
+91.9;Fritz;RBB Fritz;67km;48
+107.2;BB RADIO;BB Radio (Niederlausitz);94km;48
+93.9;radioSKW;Sender KW;48km;47
+104.2;BRF 91.4;Berliner Rundfunk 91.4 (Oderland);71km;47
+100.2;Kultur;RBB Kulturradio;67km;46
+101.6;MDR JUMP;MDR JUMP;88km;46
+106.1;radio1;RBB Radio Eins;96km;46
+90.5;NDR 1 MV;NDR 1 Radio MV (Neubrandenburg);108km;45
+98.6;Antenne;Antenne Brandenburg (Cottbus);94km;45
+100.1;Fritz;RBB Fritz;96km;45
+101.8;NDR Info;NDR Info (Mecklenburg-Vorpommern);108km;45
+103.2;Fritz;RBB Fritz;94km;45
+103.8;ANT MV;Antenne MV (Ost);108km;45
+104.3;BB RADIO;BB Radio (Prignitz);105km;45
+105.8;OSTSEE;Ostseewelle (Ost);108km;45
+106.6;Antenne;Antenne Brandenburg (Perleberg);105km;45
+107.9;BB RADIO;BB Radio (Potsdam/Berlin);31km;45
+88.1;MDR S-AN;MDR 1 Radio Sachsen-Anhalt (Dessau);88km;43
+90.7;88vier;88vier;21km;43
+102.1;POWER;Power Radio;26km;43
+103.1;Fritz;RBB Fritz;105km;43
+104.4;Kultur;RBB Kulturradio;94km;43
+87.6;Antenne;Antenne Brandenburg (Frankfurt);71km;42
+89.1;radio1;RBB Radio Eins (Frankfurt);71km;41
+91.1;Antenne;Antenne Brandenburg (Prenzlau);96km;41
+92.7;DKULTUR;Deutschlandradio Kultur;71km;41
+96.8;Kultur;RBB Kulturradio;71km;41
+101;BROCKEN;Radio Brocken (Altmark+Salzwedel);120km;41
+;BB RADIO;BB Radio (Nord-Ost);96km;41
+103;*ZACHOD*;PR Radio Zachód;129km;41
+107;NDR 2;NDR 2 (Mecklenburg-Vorpommern);116km;41
+93.4;Info-;RBB infoRADIO/Sorbisches Prog.;94km;40
+96;NDR Kult;NDR Kultur;108km;40
+97.1;DKULTUR;Deutschlandradio Kultur;108km;40
+99.1;NDR 2;NDR 2 (Mecklenburg-Vorpommern);108km;40
+107.3;94,3 rs2;r.s.2;96km;40
+88.3;RadioZET;Radio ZET;129km;39
+89.2;POTSDAM;89.2 Radio Potsdam;21km;39
+89.9;Dwojka;PR 2;129km;39
+91.8;POWER;Power Radio;31km;39
+94.1;TROJKA;PR 3;129km;39
+95.4;BB RADIO;BB Radio (Nord-Ost);31km;39
+104.9;radio B2;Radio B2;31km;39
+105;JEDYNKA;PR 1;129km;39
+90.8;DKULTUR;Deutschlandradio Kultur;94km;38
+95.1;radio1;RBB Radio Eins (Cottbus);94km;38
+;BB RADIO;BB Radio (Brandenburg);59km;38
+106.4;RMF FM;RMF FM;129km;38
+;Kultur;RBB Kulturradio;96km;37
+102.2;DLF;Deutschlandfunk (DLF);145km;36
+91.7;Kultur;RBB Kulturradio;105km;35
+99.9;radio1;RBB Radio Eins;105km;35
+105.2;DLF;Deutschlandfunk (DLF);96km;35
+;;;;0.0
