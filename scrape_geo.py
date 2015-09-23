@@ -1,4 +1,5 @@
 #!/bin/env python
+# -*- codepage: utf-8 -*-
 import urllib
 import urllib2
 from urllib2 import urlopen
@@ -107,6 +108,6 @@ for row in rows:
 	stations.append((freq, rds, program, dist, dBuV))
 
 s = sorted(stations, key=itemgetter(4), reverse=True)
-station_file = 'stations2.txt'
+station_file = 'stations.txt'
 open(station_file,'w').write('\n'.join('%s;%s;%s;%s;%s' % x for x in s))
 print 'Lokale Radiosender in die Datei %s geschrieben' % station_file
